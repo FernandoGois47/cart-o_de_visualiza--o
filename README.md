@@ -23,3 +23,9 @@ Treinar estilização com CSS
 
 Testar conceitos de posicionamento e design simples
 
+
+## 🔗 Acesso  
+👉 [https://fernandogois47.github.io/cartao_de_visualizacao/]
+
+
+
