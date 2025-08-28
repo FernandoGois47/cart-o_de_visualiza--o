@@ -27,5 +27,5 @@ Testar conceitos de posicionamento e design simples
 ## 🔗 Acesso  
 👉 [https://fernandogois47.github.io/cartao_de_visualizacao/]
 
-
+Esse desafio pode ser encontrado para fazer no site https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
 
